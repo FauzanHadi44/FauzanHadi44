@@ -1,5 +1,4 @@
-# ✨ About Fauzan ✨    
-### Hi I'am Fauzan Hadi 👋
+## Hi I'am Fauzan Hadi 👋
 - 🔭 I’m student at Universitas Diponegoto(Diponegoro University)(UNDIP)
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about you cal follow my ig (fauzanhadiiiii)
@@ -12,7 +11,7 @@
 <a href="https://instagram.com/fauzanhadiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmyfauzii" height="30" width="40" /></a>
 </p>
 
-# 🔧 Skills 
+## 🔧 Skills 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
